@@ -293,7 +293,7 @@ Not available with ~MIRYOKU_LAYERS=FLIP~.
 #+NAME: mouse-r-vi
 | &    | *    | (    | )    | +    |
 | %    | !    | [    | ]    | PIPE |
-| #    | $    | %    | ?    | "    |
+| #    | $    | %    | ?    | '    |
 | 0    | :    | $    | U_NP | U_NP |
 
 
