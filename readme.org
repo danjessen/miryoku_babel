@@ -291,10 +291,10 @@ Not available with ~MIRYOKU_LAYERS=FLIP~.
 ****** Mouse
 
 #+NAME: mouse-r-vi
-| U_RDO | U_PST | U_CPY | U_CUT | U_UND |
-| MS_L  | MS_D  | MS_U  | MS_R  |       |
-| WH_L  | WH_D  | WH_U  | WH_R  |       |
-| BTN2  | BTN1  | BTN3  | U_NP  | U_NP  |
+| &    | *    | (    | )    | +    |
+| %    | !    | [    | ]    | PIPE |
+| #    | $    | %    | ?    | "    |
+| U_NP | U_NP | 0    | :    | $    |
 
 
 ****** Media
