@@ -294,7 +294,7 @@ Not available with ~MIRYOKU_LAYERS=FLIP~.
 | &    | *    | (    | )    | +    |
 | %    | !    | [    | ]    | PIPE |
 | #    | $    | %    | ?    | "    |
-| U_NP | U_NP | 0    | :    | $    |
+| 0    | :    | $    | U_NP | U_NP |
 
 
 ****** Media
